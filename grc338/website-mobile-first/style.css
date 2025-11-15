@@ -88,7 +88,7 @@ video {
 } /*My edited version of the Eric Meyer’s reset tool. You may want to include this in all of your future CSS files. */
 
 div.home-container {
-    background: url(images/home-background.jpg) center center fixed;
+    background: url(home-background.jpg) center center fixed;
     background-size: cover;
     position: relative;
     min-height: 100vh;
